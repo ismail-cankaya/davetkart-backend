@@ -8,3 +8,4 @@ Route::get('/', fn () => response()->json([
     'service' => 'DavetKart API',
     'status' => 'ok',
 ]));
+
